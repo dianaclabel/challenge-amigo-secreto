@@ -1,4 +1,4 @@
-![AMIGO Secreto]()
+![AMIGO Secreto](https://raw.githubusercontent.com/dianaclabel/challenge-amigo-secreto/refs/heads/main/assets/banner-amigo-secreto.png)
 
 <h1 align="center"> Challenge Amigo Secreto </h1>
 <h4 align="center">
